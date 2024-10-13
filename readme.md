@@ -1,1 +1,1 @@
-# Tôi tạo ra thư mục này để học GIT
+# Khoa đẹp trai
